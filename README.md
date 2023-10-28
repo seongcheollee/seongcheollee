@@ -1,7 +1,4 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF7F00&height=300&section=header&text=Seongcheol_GitHub&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
-
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%Seongcheol_GitHub%20%20&fontAlign=30&fontSize=30&textBg=truedesc=hELLO&descAlign=60&descAlignY=50)
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%Seongcheol_GitHub%20%20&fontAlign=30&fontSize=30&textBg=true&desc=hELLO&descAlign=60&descAlignY=50)
 
 
